@@ -12,6 +12,8 @@ Brayan Santiago González Mateus -> bsgonzalem@eafit.edu.co
 
 Maria Alejandra Ortiz Correa -> maortizc2@eafit.edu.co
 
+Santiago Gómez Ospina -> sgomezo14@eafit.edu.co
+
 ## Juan Andrés Young Hoyos -> jayoungh@eafit.edu.co
 
 Diego Iván Cruz Ordiéres -> dcruzo@eafit.edu.co
