@@ -6,6 +6,8 @@ Nombre completo -> Correo electrónico institucional
 
 Sebastian Andres Medina Cabezas -> samedinac@eafit.edu.co
 
+Sebastian Duran Fernandez -> sduranf@eafit.edu.co
+
 Brayan Santiago González Mateus -> bsgonzalem@eafit.edu.co
 
 Maria Alejandra Ortiz Correa -> maortizc2@eafit.edu.co
