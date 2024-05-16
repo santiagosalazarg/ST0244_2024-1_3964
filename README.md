@@ -4,6 +4,8 @@ Por favor modifica este archivo incluyendo tu nombre completo y tu correo electr
 
 Nombre completo -> Correo electrónico institucional
 
+Daniel López Londoño -> dlopezl4@eafit.edu.co
+
 Sebastian Andres Medina Cabezas -> samedinac@eafit.edu.co
 
 Sebastian Duran Fernandez -> sduranf@eafit.edu.co
