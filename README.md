@@ -21,3 +21,5 @@ Santiago Gómez Ospina -> sgomezo14@eafit.edu.co
 Diego Iván Cruz Ordiéres -> dcruzo@eafit.edu.co
 
 Laura Sofia Jimenez Paris -> lsjimenezp@eafit.edu.co
+
+Juan David Mendiola Rios -> jdmendiolr@eafit.edu.co
