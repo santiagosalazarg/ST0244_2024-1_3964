@@ -28,4 +28,6 @@ Daniel Montoya Arenas -> dmontoyaa3@eafit.edu.co
 
 Martin Valencia Vallejo -> mvalenciv1@eafit.edu.co
 
+Isabela Mendoza Monsalve -> imendozam@eafit.edu.co
+
 
