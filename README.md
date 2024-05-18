@@ -24,4 +24,8 @@ Laura Sofia Jimenez Paris -> lsjimenezp@eafit.edu.co
 
 Juan David Mendiola Rios -> jdmendiolr@eafit.edu.co
 
-Daniel Montoya Arenas -> dmontoyaa3@eafir.edu.co
+Daniel Montoya Arenas -> dmontoyaa3@eafit.edu.co
+
+Martin Valencia Vallejo -> mvalenciv1@eafit.edu.co
+
+
