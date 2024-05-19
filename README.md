@@ -30,4 +30,6 @@ Martin Valencia Vallejo -> mvalenciv1@eafit.edu.co
 
 Isabela Mendoza Monsalve -> imendozam@eafit.edu.co
 
+luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
+
 
