@@ -34,4 +34,4 @@ luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
 
 Samuel Molina Echeverri -> smolinae2@eafit.edu.co
 
-
+Diego Alejandro Jaramillo Calderon -> dajaramilc@eafit.edu.co
