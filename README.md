@@ -30,6 +30,8 @@ Martin Valencia Vallejo -> mvalenciv1@eafit.edu.co
 
 Isabela Mendoza Monsalve -> imendozam@eafit.edu.co
 
+Juan José Vargas Lopera -> jjvargasl@eafit.edu.co
+
 luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
 
 Samuel Molina Echeverri -> smolinae2@eafit.edu.co
