@@ -32,6 +32,6 @@ Isabela Mendoza Monsalve -> imendozam@eafit.edu.co
 
 luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
 
-Samuel Molina Echeverri -> Smolinae2@eafit.edu.co
+Samuel Molina Echeverri -> smolinae2@eafit.edu.co
 
 
