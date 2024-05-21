@@ -38,3 +38,4 @@ luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
 
 Samuel Molina Echeverri -> smolinae2@eafit.edu.co
 
+Santiago Salazar Gilchrist -> ssalazarg4@eafit.edu.co
